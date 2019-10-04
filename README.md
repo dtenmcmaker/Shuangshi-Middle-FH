@@ -1,2 +1,6 @@
 # Shuangshi-Middle-FH
-福建省厦门双十中学枋湖高中部 Minecraft存档
+厦门双十中学枋湖校区Minecraft存档，于2019年10月10日发布
+                     
+适用Minecraft版本：1.12.2
+                     
+[了解更多](https://dtenmcmaker.github.io/download/fh)
