@@ -1,0 +1,20 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2019-05-11 00:11:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2019-05-11 00:10:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2019-05-11 00:03:27 +0800"
+    },
+    "done": false
+  }
+}
